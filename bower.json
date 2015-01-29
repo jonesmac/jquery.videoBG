@@ -1,6 +1,6 @@
 {
   "name": "jquery.videoBG",
-  "version": "0.0.1",
+  "version": "0.2.1",
   "homepage": "http://syddev.com/jquery.videoBG",
   "authors": [
     "Syd Lawrence"
@@ -9,7 +9,7 @@
   "main": "jquery.videoBG.js",
   "keywords": [
     "jquery",
-    "video"
+    "video",
     "background",
     "bg"
   ],
